@@ -78,19 +78,19 @@
   </build>
  <repositories>
     <repository>
-      <id>java-maven-app-group</id>
-      <url>http://18.130.215.104:8081/repository/java-maven-app-group/</url>
+      <id>java-maven-war-appD-group</id>
+      <url>http://13.233.143.159:8081/repository/java-maven-war-appD-group/</url>
     </repository>
   </repositories>
 
     <distributionManagement>
     <snapshotRepository>
-      <id>java-maven-app-snapshots</id>
-      <url>http://18.130.215.104:8081/repository/java-maven-app-snapshots/</url>
+      <id>java-maven-war-appD-snapshots</id>
+      <url>http://13.233.143.159:8081/repository/java-maven-war-appD-snapshots/</url>
     </snapshotRepository>
     <repository>
-      <id>java-maven-app-releases</id>
-      <url>http://18.130.215.104:8081/#browse/browse:java-maven-app-releases/</url>
+      <id>java-maven-war-appD-releases</id>
+      <url>http://13.233.143.159:8081/#browse/browse:java-maven-war-appD-releases/</url>
     </repository>
   </distributionManagement>
 </project>
